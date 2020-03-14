@@ -5,12 +5,12 @@
     <parent>
         <groupId>com.workfusion.lab</groupId>
         <artifactId>ml-sdk-lessons</artifactId>
-        <version>3.0</version>
+        <version>1.0</version>
     </parent>
 
     <groupId>com.workfusion.lab</groupId>
     <artifactId>lesson-2</artifactId>
-    <version>4.0</version>
+    <version>1.0</version>
 
     <properties>
         <hypermodel.id>ml-sdk-lesson-2</hypermodel.id>
