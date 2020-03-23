@@ -26,6 +26,12 @@
         <module>lesson-1</module>
       <module>lesson-2</module>
     </modules>
+    <scm>
+       <connection>scm:https://github.com/jyotissingh14/Devops-hackathon.git</connection>
+       <url>https://github.com/jyotissingh14/Devops-hackathon.git</url>
+       <developerConnection>scm:git:https://github.com/jyotissingh14/Devops-hackathon.git</developerConnection>
+      <tag>HEAD</tag>
+  </scm>
 
     <dependencies>
         <dependency>
@@ -73,7 +79,7 @@
 <distributionManagement>
   <repository>
     <id>nexus</id>
-    <url>http://18.216.60.12:8081/nexus/content/repositories/releases</url>
+    <url>http://18.216.208.242:8081/nexus/content/repositories/releases</url>
   </repository>
 </distributionManagement>
  <repositories>
